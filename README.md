@@ -122,34 +122,5 @@ Without a centralized dashboard, decision-making becomes inefficient, affecting 
   - **Business Implication**: Create upselling and cross-selling opportunities.
 
 ---
-
-## 💡 **Expected Outcomes**
-1. A user-friendly dashboard empowering stakeholders to make data-driven decisions.
-2. Enhanced operational efficiency through improved data visibility.
-3. A reusable template/framework adaptable to similar businesses.
-
----
-
-## 🤔 **Why This Project?**
-This project is an excellent opportunity to:
-- Master advanced data visualization techniques using Power BI.
-- Integrate real-world datasets for meaningful analysis.
-- Solve real business challenges through technology and analytics.
-
----
-
-## 📂 **Project Structure**
-```plaintext
-Blinkit-PowerBI-Dashboard/
-│
-├── Data/
-│   └── Sample_Datasets.xlsx
-├── Dashboard/
-│   └── PowerBI_File.pbix
-├── Documentation/
-│   └── Project_Report.pdf
-├── Images/
-│   ├── Overview_Page_Screenshot.png
-│   ├── Customer_Page_Screenshot.png
 │   └── Marketing_Page_Screenshot.png
 └── README.md
